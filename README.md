@@ -35,8 +35,8 @@ A cross-platform reminder and calendar app built with Flutter. Supports advanced
 
 1. Clone this repository:
    ```sh
-   git clone <your-repo-url>
-   cd reminder_app
+   git clone https://github.com/linhduongtuan/reminder_calendar_app
+   cd reminder_calendar_app
    ```
 2. Install dependencies:
    ```sh
