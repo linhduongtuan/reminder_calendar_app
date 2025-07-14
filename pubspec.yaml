@@ -1,0 +1,28 @@
+name: reminder_app
+description: A cross-platform reminder/calendar app built with Flutter.
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+  flutter_local_notifications: ^14.1.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  provider: ^6.1.2
+  path_provider: ^2.1.2
+  rrule: ^0.2.0
+  flutter_markdown: ^0.7.7+1
+  permission_handler: ^12.0.1
+  geofence_service: ^6.0.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true
